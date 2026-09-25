@@ -7,7 +7,7 @@ Nieoficjalny edytor zapisów gry **The Blood of Dawnwalker**.
 Dawnwalker Save Editor umożliwia przeglądanie i modyfikowanie rozwoju talentów oraz zdolności zapisanych w plikach gry.
 
 > [!IMPORTANT]
-> Aplikacja jest obecnie rozwijana. Publiczna wersja programu nie jest jeszcze dostępna. Oficjalne pliki do pobrania będą publikowane poprzez GitHub Releases.
+> Aplikacja jest obecnie rozwijana. Stabilne wersje są publikowane poprzez GitHub Releases.
 
 ## Funkcje
 
@@ -22,7 +22,9 @@ Dawnwalker Save Editor umożliwia przeglądanie i modyfikowanie rozwoju talentó
 
 ## Pobieranie
 
-Oficjalne instalatory będą publikowane wyłącznie na stronie [Releases](https://github.com/gam3f0rge/Dawnwalker-Save-Editor-Public/releases).
+Pobierz najnowszą stabilną wersję dla Windows: [Dawnwalker-Save-Editor-win-x64.zip](https://github.com/gam3f0rge/Dawnwalker-Save-Editor-Public/releases/latest/download/Dawnwalker-Save-Editor-win-x64.zip).
+
+Wersje testowe i wcześniejsze wydania są dostępne na stronie [Releases](https://github.com/gam3f0rge/Dawnwalker-Save-Editor-Public/releases).
 
 Nie pobieraj aplikacji z nieoficjalnych źródeł.
 
