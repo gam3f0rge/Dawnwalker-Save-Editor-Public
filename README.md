@@ -69,4 +69,4 @@ All game names, trademarks and assets belong to their respective owners.
 
 Created by **gam3f0rg3**.
 
-If you enjoy the application, you can [buy me a coffee](https://buycoffee.to/gam3f0rg3). Thank you!
+If you enjoy the application, you can [support its development on Ko-fi](https://ko-fi.com/gam3f0rg3). Thank you!
