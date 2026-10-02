@@ -24,6 +24,8 @@ Dawnwalker Save Editor allows you to inspect and modify talent and ability progr
 
 Download the latest stable Windows build: [Dawnwalker-Save-Editor-win-x64.zip](https://github.com/gam3f0rge/Dawnwalker-Save-Editor-Public/releases/latest/download/Dawnwalker-Save-Editor-win-x64.zip).
 
+Each release page includes a link to the VirusTotal scan of the archive.
+
 Preview builds and earlier releases are available on the [Releases page](https://github.com/gam3f0rge/Dawnwalker-Save-Editor-Public/releases).
 
 Do not download the application from unofficial mirrors.
