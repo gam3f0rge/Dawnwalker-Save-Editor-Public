@@ -34,7 +34,7 @@ Do not download the application from unofficial mirrors.
 
 The editor creates a backup before overwriting a save. Keeping an additional manual backup of your `SaveGames` directory is still recommended.
 
-Close the game before editing or replacing save files.
+You do not need to close the game while editing, but it is recommended to save your changes under a new file name.
 
 ## Support and bug reports
 

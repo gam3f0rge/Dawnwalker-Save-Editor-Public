@@ -34,7 +34,7 @@ Nie pobieraj aplikacji z nieoficjalnych źródeł.
 
 Edytor tworzy kopię zapasową przed nadpisaniem zapisu. Mimo to zalecane jest samodzielne wykonanie dodatkowej kopii katalogu `SaveGames`.
 
-Przed edycją lub zastępowaniem plików zapisów zamknij grę.
+Podczas edycji nie trzeba zamykać gry, ale zaleca się zapisać modyfikację pod nową nazwą pliku.
 
 ## Pomoc i zgłaszanie błędów
 
