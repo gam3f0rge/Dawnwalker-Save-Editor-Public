@@ -53,7 +53,19 @@ Do not publish save files or other potentially private data in a public issue. I
 
 ## Languages
 
-The application interface is available in Polish and English. Talent and ability names and detailed descriptions are also available in additional languages supported by the game.
+The application interface is available in Polish, English and German. Talent and ability names and detailed descriptions are also available in additional languages supported by the game.
+
+### Translating the interface
+
+Would you like the interface in your own language? You can translate it:
+
+1. Download the template [Dawnwalker-UI-template-en.json](https://github.com/gam3f0rge/Dawnwalker-Save-Editor-Public/releases/latest/download/Dawnwalker-UI-template-en.json).
+2. Translate only the text on the right side of each line. Do not change the keys (the text on the left), placeholders such as `{0}`, `{1}` or `{mouseLeft}`, or the line break markers `\n`. Save the file in UTF-8 encoding. You do not have to translate everything: missing lines are shown in English.
+3. Name the file with your language code, for example `sv.json`.
+4. Send it as a private message to the author on [Nexus Mods](https://www.nexusmods.com/thebloodofdawnwalker/mods/675) (click the author name on the mod page).
+5. By sending a translation you agree that it may be included in the application and distributed with it. Your name will be listed in the About window.
+
+Current interface translators: German – ODSystem.
 
 ## Source code
 

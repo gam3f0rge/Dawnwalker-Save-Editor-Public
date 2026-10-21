@@ -53,7 +53,19 @@ Nie publikuj zapisów gry ani innych potencjalnie prywatnych danych w publicznym
 
 ## Języki
 
-Interfejs aplikacji jest dostępny po polsku i angielsku. Nazwy oraz szczegółowe opisy talentów i zdolności są także dostępne w dodatkowych językach obsługiwanych przez grę.
+Interfejs aplikacji jest dostępny po polsku, angielsku i niemiecku. Nazwy oraz szczegółowe opisy talentów i zdolności są także dostępne w dodatkowych językach obsługiwanych przez grę.
+
+### Tłumaczenie interfejsu
+
+Chcesz interfejs w swoim języku? Możesz go przetłumaczyć:
+
+1. Pobierz wzór [Dawnwalker-UI-template-en.json](https://github.com/gam3f0rge/Dawnwalker-Save-Editor-Public/releases/latest/download/Dawnwalker-UI-template-en.json).
+2. Tłumacz tylko tekst po prawej stronie każdej linii. Nie zmieniaj kluczy (tekstu po lewej), symboli zastępczych takich jak `{0}`, `{1}` czy `{mouseLeft}` ani znaczników nowej linii `\n`. Zapisz plik w kodowaniu UTF-8. Nie musisz tłumaczyć wszystkiego: brakujące linie będą wyświetlane po angielsku.
+3. Nazwij plik kodem swojego języka, na przykład `sv.json`.
+4. Wyślij go jako prywatną wiadomość do autora na [Nexus Mods](https://www.nexusmods.com/thebloodofdawnwalker/mods/675) (kliknij nazwę autora na stronie moda).
+5. Wysyłając tłumaczenie, zgadzasz się, że może zostać dołączone do aplikacji i rozpowszechniane razem z nią. Twoje imię lub pseudonim zostanie wymienione w oknie „O programie”.
+
+Obecni autorzy tłumaczeń interfejsu: niemiecki – ODSystem.
 
 ## Kod źródłowy
 
