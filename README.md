@@ -9,7 +9,7 @@ Dawnwalker Save Editor allows you to inspect and modify talent and ability progr
 > [!IMPORTANT]
 > The application is currently in development. Stable builds are published through GitHub Releases.
 
-## Features
+## ✨ Features
 
 - Browse and open game saves
 - Edit talents and abilities
@@ -17,10 +17,10 @@ Dawnwalker Save Editor allows you to inspect and modify talent and ability progr
 - Use an optional cheat mode with hierarchy-aware unlocking
 - Automatically create backups before overwriting saves
 - Restore deleted saves from the application trash
-- Use the interface in Polish or English
+- Use the interface in Polish, English or German
 - Read talent and ability descriptions in additional game languages
 
-## Downloads
+## ⬇️ Downloads
 
 Download the latest stable Windows build: [Dawnwalker-Save-Editor-win-x64.zip](https://github.com/gam3f0rge/Dawnwalker-Save-Editor-Public/releases/latest/download/Dawnwalker-Save-Editor-win-x64.zip).
 
@@ -30,13 +30,13 @@ Preview builds and earlier releases are available on the [Releases page](https:/
 
 Do not download the application from unofficial mirrors.
 
-## Safety
+## 🛡️ Safety
 
 The editor creates a backup before overwriting a save. Keeping an additional manual backup of your `SaveGames` directory is still recommended.
 
 You do not need to close the game while editing, but it is recommended to save your changes under a new file name.
 
-## Support and bug reports
+## 🐞 Support and bug reports
 
 Problems and feature requests can be submitted through [GitHub Issues](https://github.com/gam3f0rge/Dawnwalker-Save-Editor-Public/issues).
 
@@ -51,11 +51,13 @@ When reporting a problem, include:
 
 Do not publish save files or other potentially private data in a public issue. If a save file is required for diagnosis, a safe method of sharing it should be agreed on separately.
 
-## Languages
+<a id="languages"></a>
+
+## 🌍 Languages
 
 The application interface is available in Polish, English and German. Talent and ability names and detailed descriptions are also available in additional languages supported by the game.
 
-### Translating the interface
+### ✍️ Translating the interface
 
 Would you like the interface in your own language? You can translate it:
 
@@ -67,19 +69,19 @@ Would you like the interface in your own language? You can translate it:
 
 Current interface translators: German – ODSystem.
 
-## Source code
+## 🔒 Source code
 
 This repository contains application releases, documentation and user support only.
 
 The application source code is not published in this repository.
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 Dawnwalker Save Editor is an unofficial community tool. It is not affiliated with, endorsed by, or supported by the developers or publishers of **The Blood of Dawnwalker**.
 
 All game names, trademarks and assets belong to their respective owners.
 
-## Author
+## 👤 Author
 
 Created by **gam3f0rg3**.
 

@@ -9,7 +9,7 @@ Dawnwalker Save Editor umożliwia przeglądanie i modyfikowanie rozwoju talentó
 > [!IMPORTANT]
 > Aplikacja jest obecnie rozwijana. Stabilne wersje są publikowane poprzez GitHub Releases.
 
-## Funkcje
+## ✨ Funkcje
 
 - Przeglądanie i otwieranie zapisów gry
 - Edycja talentów i zdolności
@@ -17,10 +17,10 @@ Dawnwalker Save Editor umożliwia przeglądanie i modyfikowanie rozwoju talentó
 - Opcjonalny tryb cheat z odblokowywaniem uwzględniającym hierarchię drzewa
 - Automatyczne tworzenie kopii zapasowych przed nadpisaniem zapisu
 - Przywracanie usuniętych zapisów z kosza aplikacji
-- Interfejs w języku polskim i angielskim
+- Interfejs w języku polskim, angielskim i niemieckim
 - Nazwy oraz opisy talentów i zdolności w dodatkowych językach gry
 
-## Pobieranie
+## ⬇️ Pobieranie
 
 Pobierz najnowszą stabilną wersję dla Windows: [Dawnwalker-Save-Editor-win-x64.zip](https://github.com/gam3f0rge/Dawnwalker-Save-Editor-Public/releases/latest/download/Dawnwalker-Save-Editor-win-x64.zip).
 
@@ -30,13 +30,13 @@ Wersje testowe i wcześniejsze wydania są dostępne na stronie [Releases](https
 
 Nie pobieraj aplikacji z nieoficjalnych źródeł.
 
-## Bezpieczeństwo
+## 🛡️ Bezpieczeństwo
 
 Edytor tworzy kopię zapasową przed nadpisaniem zapisu. Mimo to zalecane jest samodzielne wykonanie dodatkowej kopii katalogu `SaveGames`.
 
 Podczas edycji nie trzeba zamykać gry, ale zaleca się zapisać modyfikację pod nową nazwą pliku.
 
-## Pomoc i zgłaszanie błędów
+## 🐞 Pomoc i zgłaszanie błędów
 
 Problemy i propozycje funkcji można zgłaszać poprzez [GitHub Issues](https://github.com/gam3f0rge/Dawnwalker-Save-Editor-Public/issues).
 
@@ -51,11 +51,11 @@ Zgłoszenie problemu powinno zawierać:
 
 Nie publikuj zapisów gry ani innych potencjalnie prywatnych danych w publicznym zgłoszeniu. Jeżeli plik zapisu będzie potrzebny do diagnozy, bezpieczny sposób jego przekazania należy uzgodnić osobno.
 
-## Języki
+## 🌍 Języki
 
 Interfejs aplikacji jest dostępny po polsku, angielsku i niemiecku. Nazwy oraz szczegółowe opisy talentów i zdolności są także dostępne w dodatkowych językach obsługiwanych przez grę.
 
-### Tłumaczenie interfejsu
+### ✍️ Tłumaczenie interfejsu
 
 Chcesz interfejs w swoim języku? Możesz go przetłumaczyć:
 
@@ -67,19 +67,19 @@ Chcesz interfejs w swoim języku? Możesz go przetłumaczyć:
 
 Obecni autorzy tłumaczeń interfejsu: niemiecki – ODSystem.
 
-## Kod źródłowy
+## 🔒 Kod źródłowy
 
 To repozytorium zawiera wydania aplikacji, dokumentację i obsługę zgłoszeń użytkowników.
 
 Kod źródłowy aplikacji nie jest publikowany w tym repozytorium.
 
-## Zastrzeżenie
+## ⚠️ Zastrzeżenie
 
 Dawnwalker Save Editor jest nieoficjalnym narzędziem społecznościowym. Nie jest powiązany, wspierany ani zatwierdzony przez twórców lub wydawców gry **The Blood of Dawnwalker**.
 
 Wszystkie nazwy gry, znaki towarowe i zasoby należą do ich prawnych właścicieli.
 
-## Autor
+## 👤 Autor
 
 Autor: **gam3f0rg3**.
 
